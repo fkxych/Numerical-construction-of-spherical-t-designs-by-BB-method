@@ -1,5 +1,6 @@
 # Numerical-construction-of-spherical-t-designs-by-Barzilai-Borwein-method
 -----Computing of spherical t-designs-----
+#
 Author: Yuchen Xiao
 #
 Thanks for Congpei An who shared his codes
