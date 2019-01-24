@@ -1,11 +1,11 @@
 # Numerical-construction-of-spherical-t-designs-by-Barzilai-Borwein-method
 -----Computing of spherical t-designs-----
 #
-Author: Yuchen Xiao
+Author: Yuchen Xiao and Congpei An
 #
-Thanks for Congpei An who shared his codes
+Thanks for Professor Rob Womersley for the codes in [8]
 #
-Original Code Author: Rob Womersley and Ian Hugh Sloan
+Reference: [8] I. H. Sloan, R. S. Womersley, A variational characterisation of spherical designs, Journal of Approximation Theory 159 (2) (2009) 308-318.
 #
 Time: Nov 18, 2018
 ##
