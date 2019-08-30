@@ -3,9 +3,9 @@
 #
 Author: Congpei An and Yuchen Xiao
 #
-Thanks for Professor Rob Womersley for the codes in [6] and Professor Mark Schmidt for the codes in [18]
+Thanks for Professor Rob Womersley for the codes in [6] and Professor Mark Schmidt for the codes in [18].
 #
-Reference: 
+References: 
 
 [6] I. H. Sloan, R. S. Womersley, A variational characterisation of spherical designs, Journal of Approximation Theory 159 (2) (2009) 308-318.
 
@@ -13,7 +13,7 @@ Reference:
 #
 Time: Nov 18, 2018
 ##
-The datasets including all results of spherical $t$-design have been shown in the file named "xx", the main characters are illustrated as follows
+The datasets including all results of spherical $t$-design have been shown in the file named "Results of Paper", the main characters are illustrated as follows
 #
 t is the degree of spherical polynomials;
 #
