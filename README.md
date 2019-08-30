@@ -3,9 +3,10 @@
 #
 Author: Yuchen Xiao and Congpei An
 #
-Thanks for Professor Rob Womersley for the codes in [8]
+Thanks for Professor Rob Womersley for the codes in [8] and Professor Mark Schmidt
 #
 Reference: [8] I. H. Sloan, R. S. Womersley, A variational characterisation of spherical designs, Journal of Approximation Theory 159 (2) (2009) 308-318.
+           [18] M. Schmidt, minfunc: unconstrained differentiable multivariate optimization in matlab, http://www.cs.ubc.ca/~schmidtm/Software/minFunc.html (2005).
 #
 Time: Nov 18, 2018
 ##
